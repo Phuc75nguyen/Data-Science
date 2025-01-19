@@ -1,6 +1,6 @@
 This repository includes 2 parts:
 
-A. Chapter 2 -3 and some practical exercises.
+A. Chapter 2 -3 -4 and some practical exercises.
 
 
 B. Final project:
